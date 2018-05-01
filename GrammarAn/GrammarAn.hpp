@@ -36,6 +36,7 @@ private:
     // Recursive subroutine representing non-terminal symbols.
 	bool A();
 	bool V();
+	bool E();
 	bool E_();
 	bool T();
 	bool T_();
